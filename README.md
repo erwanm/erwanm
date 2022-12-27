@@ -13,18 +13,65 @@ About my professional activities, you can browse:
 About my non-professional activities:
 
 - I contribute to [DataScience StackExchange](https://datascience.stackexchange.com/users/64377/erwan).
-- I like [TiddlyWiki](https://tiddlywiki.com/) and I wish I could do spend more time doing [stuff with it](#tiddlywiki-repositories).
+- I like [TiddlyWiki](https://tiddlywiki.com/) and I wish I could spend more time doing [stuff with it](#tiddlywiki-repositories).
 - Misc
 
 
 ## Work repositories
 
-TODO
+### Stylometry, authorship verification
+
+
+*A not very well known but challenging subdomain of NLP. *
+
+- https://github.com/erwanm/CLGTextTools:  Perl library containing functions to analyze text documents and especially extract text features.
+- https://github.com/erwanm/clg-authorship-analytics: set of scripts and libraries to perform author-identification related tasks (Perl).
+- https://github.com/erwanm/clg-authorship-experiments: a set of experiments with detailed documentation for `clg-authorship-analytics` (Perl + R).
+ 
+
+### Detection of verbal multiword expressions (VMWE)
+
+- https://github.com/erwanm/adapt-vmwe18: participation to the VMWE18 Shared Task: two systems for detecting verbal multiword expressions.
+-  
+
+### Literature-Based Discovery (biomedical domain)
+
+- https://github.com/erwanm/tdc-tools: tools for representing and manipulating data in the Tabular Document-Concept (TDC) format. Used in my other LBD repos (Python).
+- https://github.com/erwanm/medline-discoveries: a method for "mining impactful discoveries from the biomedical literature" (Python, R)
+- https://github.com/erwanm/lbd-contrast: an experimental approach for LBD.
+- https://github.com/erwanm/knowledgediscovery: modified fork to extract and apply LBD methods.
+   - https://github.com/erwanm/PowerGraph: dependency for the above 
+- https://github.com/erwanm/kd-data-tools: an ad-hoc concept disambiguation system for KD output (Medline and PMC).
+
+### Misc
+
+- https://github.com/erwanm/erw-ml-utils: ML-related scripts, especially for use with weka
+- https://github.com/erwanm/TreeTaggerWrapper: a convenient wrapper to use the venerable POS tagger.
+
 
 ## Tiddlywiki repositories
 
+- https://github.com/erwanm/TW-WhoAmIGame: a simple game meant to be customized with your own questions and answers.
+- https://github.com/erwanm/Projectify: fork, not started working on it.
+- https://github.com/erwanm/TW5-TimeTodo: another fork that I didn't work on.
 
-<!---
-erwanm/erwanm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## My tools and configurations
+
+- https://github.com/erwanm/encfs-util: scripts for linking [EncFS](https://github.com/vgough/encfs) (directory encryption) with [pass](https://www.passwordstore.org/) (a command-line password manager) (Bash).
+- https://github.com/erwanm/erw-setup: my config and a few scripts (Bash)
+- https://github.com/erwanm/erw-tsv-commons: scripts to perform manipulations on TSV files (Perl)
+- https://github.com/erwanm/erw-bash-commons: various useful bash functions. includes my "project management" system (Bash)
+
+## Misc
+
+### Other stuff by me
+
+- https://github.com/erwanm/hugo-chalk: a modified template for [Hugo](https://gohugo.io/) (a framework for building a static website). 
+- https://github.com/erwanm/indie-coding: various pieces of code (currently about collecting open-license images) (Bash)
+- https://github.com/erwanm/Poker-StatsSystem: old attempt at automatic statistics from poker hands, unfinished (Perl).
+
+### Forks with no or few modifications
+
+- https://github.com/erwanm/AVS
+- https://github.com/erwanm/pan_2020_2021_authorship_verification
+- https://github.com/erwanm/SWENG-Project-2019
