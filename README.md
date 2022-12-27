@@ -14,7 +14,7 @@ About my non-professional activities:
 
 - I contribute to [DataScience StackExchange](https://datascience.stackexchange.com/users/64377/erwan).
 - I like [TiddlyWiki](https://tiddlywiki.com/) and I wish I could spend more time doing [stuff with it](#tiddlywiki-repositories).
-- Misc
+- I also have a [few tools](#my-tools-and-configurations) and [some other stuff](#misc).
 
 
 ## Work repositories
@@ -45,13 +45,18 @@ About my non-professional activities:
 
 ### Misc
 
+- https://github.com/erwanm/elephant-wrapper: wrapper for the Elephant tokenizer, together with several experiments (LREC18 paper)
 - https://github.com/erwanm/erw-ml-utils: ML-related scripts, especially for use with weka
 - https://github.com/erwanm/TreeTaggerWrapper: a convenient wrapper to use the venerable POS tagger.
+- https://github.com/erwanm/quest: an abandoned fork of Quest (for MT Quality Estimation).
 
 
 ## Tiddlywiki repositories
 
+- https://github.com/erwanm/tw-aggregator: a system to automatically aggregate TiddlyWiki content from a collection of public wikis 
 - https://github.com/erwanm/TW-WhoAmIGame: a simple game meant to be customized with your own questions and answers.
+- https://github.com/erwanm/tw-doc: in-house basic documentation generator which adds information extracted from code files to an existing tiddlywiki file. 
+- https://github.com/erwanm/TiddlyWiki5: fork
 - https://github.com/erwanm/Projectify: fork, not started working on it.
 - https://github.com/erwanm/TW5-TimeTodo: another fork that I didn't work on.
 
@@ -69,6 +74,7 @@ About my non-professional activities:
 - https://github.com/erwanm/hugo-chalk: a modified template for [Hugo](https://gohugo.io/) (a framework for building a static website). 
 - https://github.com/erwanm/indie-coding: various pieces of code (currently about collecting open-license images) (Bash)
 - https://github.com/erwanm/Poker-StatsSystem: old attempt at automatic statistics from poker hands, unfinished (Perl).
+- - https://github.com/erwanm/code-snippets: as the name suggests
 
 ### Forks with no or few modifications
 
