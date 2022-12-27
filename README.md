@@ -31,10 +31,13 @@ About my non-professional activities:
 
 ### Detection of verbal multiword expressions (VMWE)
 
-- https://github.com/erwanm/adapt-vmwe18: participation to the VMWE18 Shared Task: two systems for detecting verbal multiword expressions.
--  
+- https://github.com/alfredomg/ADAPT-MWE17: participation to the VMWE17 Shared Task.
+- https://github.com/erwanm/adapt-vmwe18: participation to the VMWE18 Shared Task.
+  
 
 ### Literature-Based Discovery (biomedical domain)
+
+*See also related Shiny visualizations at https://brainmend.adaptcentre.ie/*
 
 - https://github.com/erwanm/tdc-tools: tools for representing and manipulating data in the Tabular Document-Concept (TDC) format. Used in my other LBD repos (Python).
 - https://github.com/erwanm/medline-discoveries: a method for "mining impactful discoveries from the biomedical literature" (Python, R)
