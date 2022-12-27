@@ -22,7 +22,7 @@ About my non-professional activities:
 ### Stylometry, authorship verification
 
 
-*A not very well known but challenging subdomain of NLP. *
+*A not very well known but challenging subdomain of NLP.*
 
 - https://github.com/erwanm/CLGTextTools:  Perl library containing functions to analyze text documents and especially extract text features.
 - https://github.com/erwanm/clg-authorship-analytics: set of scripts and libraries to perform author-identification related tasks (Perl).
