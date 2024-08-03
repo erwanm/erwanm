@@ -1,16 +1,19 @@
 
 ## Welcome!
 
-*I'm a postdoc at Trinity College Dublin in the School of Computer Science and Statistics. My research domain is Natural Language Processing.*
 
-About my professional activities, you can browse:
+My domain is [Natural Language Processing](https://en.wikipedia.org/wiki/Natural_language_processing) (NLP).
+
+*From 2011 to 2023, I was a postdoctoral research fellow at [Trinity College Dublin](http://www.tcd.ie)  in the [School of Computer Science and Statistics](http://www.scss.tcd.ie/), working at the [Adapt Research Centre](https://www.adaptcentre.ie/). Most of my github stuff is related to my research work. Now that I'm a consultant data scientist, my work is not public anymore.*
+
+About my research activities:
 
 - My [professional page](https://www.scss.tcd.ie/~moreaue/#Overview).
 - My publications [on my page](https://www.scss.tcd.ie/~moreaue/#Publications), on [Google Scholar](https://scholar.google.com/citations?user=ciatfzAAAAAJ), on [ORCID](https://orcid.org/0000-0001-7692-526X), on [Semantic Scholar](https://www.semanticscholar.org/author/Erwan-Moreau/2156958), on the [ACL Anthology](https://aclanthology.org/people/e/erwan-moreau/), or on [HAL](https://cv.archives-ouvertes.fr/erwan-moreau).
 - A fair number of [repositories](#work-repositories), usually experiments linked to one of my papers
 
 
-About my non-professional activities:
+About my non-research activities:
 
 - I contribute to [DataScience StackExchange](https://datascience.stackexchange.com/users/64377/erwan).
 - I like [TiddlyWiki](https://tiddlywiki.com/) and I wish I could spend more time doing [stuff with it](#tiddlywiki-repositories).
