@@ -8,7 +8,7 @@ My domain is [Natural Language Processing](https://en.wikipedia.org/wiki/Natural
 
 About my research activities:
 
-- My [academic research page]([[https://erwanmoreau.info](https://erwanmoreau.info/academic-cv)](https://erwanmoreau.info/academic-cv)).
+- My [academic research page](https://erwanmoreau.info/academic-cv).
 - My publications [on my page](https://www.scss.tcd.ie/~moreaue/#Publications), on [Google Scholar](https://scholar.google.com/citations?user=ciatfzAAAAAJ), on [ORCID](https://orcid.org/0000-0001-7692-526X), on [Semantic Scholar](https://www.semanticscholar.org/author/Erwan-Moreau/2156958), on the [ACL Anthology](https://aclanthology.org/people/e/erwan-moreau/), or on [HAL](https://cv.archives-ouvertes.fr/erwan-moreau).
 - A fair number of [repositories](#work-repositories), usually experiments linked to one of my papers
 
